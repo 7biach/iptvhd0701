@@ -1,7 +1,29 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
 http://us11.kfoxtrot.store/SD_AE/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
-#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
 #EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+http://fr.ksierra.live/HD_AE/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
+http://us13.server.kkzulu.xyz/SD_AMC/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC HD
+http://fr.kgolf.site/HD_AMC/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filme e Serie",AXN
+http://ge.server.kuniform.live/SD_AXN/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Filme e Serie",AXN HD
+http://us12.server.kkcharlie.xyz/HD_AXN/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang
+http://us11.kgolf.store/SD_BOOMERANG/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Boomerang HD" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang HD
+http://us12.server.kkalfa.xyz/HD_BOOMERANG/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
+http://pl.server.kkfoxtrot.xyz/SD_CARTOON_NETWORK/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network HD" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network HD
+http://us11.koscar.live/HD_CARTOON_NETWORK/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax
+http://us11.kfoxtrot.store/SD_CINEMAX/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Cinemax HD" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax HD
+http://us14.server.kp2lima.xyz/HD_CINEMAX/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
+http://us14.server.kp2lima.xyz/SD_COMBATE/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
+#EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate HD
+http://us14.server.kp2kilo.xyz/HD_COMBATE/video.m3u8?token=834a7f30d8d9902777c88f94543a77ac
